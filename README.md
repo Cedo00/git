@@ -3,6 +3,7 @@
 
 ## 学习
 
+- [Git-it](http://jlord.us/git-it/)
 - [Git 备忘单](https://training.github.com/kit/downloads/cn/github-git-cheat-sheet.html)
 - [从SVN切换到Git](https://training.github.com/kit/downloads/subversion-migration.html)
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)([中文版](http://marklodato.github.io/visual-git-guide/index-zh-cn.html))
